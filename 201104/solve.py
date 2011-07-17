@@ -1,3 +1,11 @@
+""" Solver voor puzzel uit Eureka april 2011.
+http://www.physics.leidenuniv.nl/eureka/pdf-magazines/eureka32.pdf
+
+(c) 2011, Merlijn van Deen
+Licensed under the MIT license.
+
+"""
+
 import sys
 import numpy as np
 import termcolor
