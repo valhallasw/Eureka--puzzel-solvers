@@ -1,13 +1,15 @@
-aabbcddeef32
-ghiicjjkkf33
-ghlmnnoopq14
-rrlmsstupq41
-vwwxxytuzz43
-vAABCyDEEF32
-GGHBCIDJKF34
-LLHMNIOJKP22
-QRRMNSOTTP13
-QUUVVSWWXX44
+10 # row
+10 # columns
+AABBCDDEEF32
+GHIICJJKKF33
+GHLMNNOOPQ14
+RRLMSSTUPQ41
+VWWXXYTUZZ43
+VaabcYdeef32
+gghbcidjkf34
+llhmniojkp22
+qrrmnsottp13
+quuvvswwxx44
 3242435122+
 3414244123 -
 

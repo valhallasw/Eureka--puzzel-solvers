@@ -1,0 +1,12 @@
+Solver voor de Eureka!-puzzel april 2011
+Zie http://www.physics.leidenuniv.nl/eureka/pdf-magazines/eureka32.pdf
+
+Zowel puzzel.txt als voorbeeld.txt zijn overgenomen uit de Eureka!
+
+De solver is een hackish backtracking solver, maar het werkt snel genoeg (~10s op mijn laptop, en die is niet flitsend snel).
+
+Het formaat van de bestanden is het volgende:
+* Twee regels (aantal rijen, aantal kolommen)
+
+dan per rij: letters die aangeven welk 'magneetje' het vakje bijhoort + twee kolommen die het aantal plusjes en het aantal minnetjes aangeven.
+Verticaal hetzelfde verhaal.
